@@ -5,7 +5,6 @@ test.describe('Testes do Site do Grêmio', () => {
   
   let gremioPage: GremioPage; // Declara a page fora para ser acessível em todos os testes
 
-  // Antes de cada teste, inicializa a GremioPage
   test.beforeEach(async ({ page }) => {
     gremioPage = new GremioPage(page);
   });
