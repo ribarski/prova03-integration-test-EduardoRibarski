@@ -6,6 +6,7 @@
   "author": "ugioni",
   "license": "ISC",
   "devDependencies": {
+    "@types/js-yaml": "^4.0.9",
     "@types/node": "^24.9.1",
     "@zerostep/playwright": "^0.1.5",
     "mkdirp": "^3.0.1",
