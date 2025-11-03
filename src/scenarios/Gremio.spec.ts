@@ -1,5 +1,5 @@
 import { test } from '@playwright/test';
-import { GremioPage } from '../support/pages/GremioPage'; 
+import { GremioPage } from '../support/pages/GremioPage';
 
 test.describe('Testes do Site do Grêmio', () => {
   
